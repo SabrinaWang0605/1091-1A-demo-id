@@ -1,0 +1,41 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 20px auto;
+  padding: 20px;
+  border: 20px solid #2cb9a6;
+  width: 80%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+
+.date {
+  text-transform: initial;
+  letter-spacing: 0.2rem;
+  color: #2d43be;
+  padding: 20px 0;
+}
+
+h2 {
+  font-size: 1.4rem;
+  font-weight: bold;
+  color: #3287a8;
+  padding-bottom: 15px;
+}
+
+.quote {
+  border-left: 5px solid #8ac4db;
+  padding-left: 8px;
+}
+
+.post {
+  margin-bottom: 15px;
+}
+
+.post-info {
+  margin-top: 15px;
+}
